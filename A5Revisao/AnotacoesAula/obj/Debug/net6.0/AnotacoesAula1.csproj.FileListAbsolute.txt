@@ -1,0 +1,15 @@
+C:\Users\adria\OneDrive\3. Estudo\CSharp\blue-cs\A5Revisao\AnotacoesAula\bin\Debug\net6.0\AnotacoesAula1.exe
+C:\Users\adria\OneDrive\3. Estudo\CSharp\blue-cs\A5Revisao\AnotacoesAula\bin\Debug\net6.0\AnotacoesAula1.deps.json
+C:\Users\adria\OneDrive\3. Estudo\CSharp\blue-cs\A5Revisao\AnotacoesAula\bin\Debug\net6.0\AnotacoesAula1.runtimeconfig.json
+C:\Users\adria\OneDrive\3. Estudo\CSharp\blue-cs\A5Revisao\AnotacoesAula\bin\Debug\net6.0\AnotacoesAula1.dll
+C:\Users\adria\OneDrive\3. Estudo\CSharp\blue-cs\A5Revisao\AnotacoesAula\bin\Debug\net6.0\AnotacoesAula1.pdb
+C:\Users\adria\OneDrive\3. Estudo\CSharp\blue-cs\A5Revisao\AnotacoesAula\obj\Debug\net6.0\AnotacoesAula1.csproj.AssemblyReference.cache
+C:\Users\adria\OneDrive\3. Estudo\CSharp\blue-cs\A5Revisao\AnotacoesAula\obj\Debug\net6.0\AnotacoesAula1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adria\OneDrive\3. Estudo\CSharp\blue-cs\A5Revisao\AnotacoesAula\obj\Debug\net6.0\AnotacoesAula1.AssemblyInfoInputs.cache
+C:\Users\adria\OneDrive\3. Estudo\CSharp\blue-cs\A5Revisao\AnotacoesAula\obj\Debug\net6.0\AnotacoesAula1.AssemblyInfo.cs
+C:\Users\adria\OneDrive\3. Estudo\CSharp\blue-cs\A5Revisao\AnotacoesAula\obj\Debug\net6.0\AnotacoesAula1.csproj.CoreCompileInputs.cache
+C:\Users\adria\OneDrive\3. Estudo\CSharp\blue-cs\A5Revisao\AnotacoesAula\obj\Debug\net6.0\AnotacoesAula1.dll
+C:\Users\adria\OneDrive\3. Estudo\CSharp\blue-cs\A5Revisao\AnotacoesAula\obj\Debug\net6.0\refint\AnotacoesAula1.dll
+C:\Users\adria\OneDrive\3. Estudo\CSharp\blue-cs\A5Revisao\AnotacoesAula\obj\Debug\net6.0\AnotacoesAula1.pdb
+C:\Users\adria\OneDrive\3. Estudo\CSharp\blue-cs\A5Revisao\AnotacoesAula\obj\Debug\net6.0\AnotacoesAula1.genruntimeconfig.cache
+C:\Users\adria\OneDrive\3. Estudo\CSharp\blue-cs\A5Revisao\AnotacoesAula\obj\Debug\net6.0\ref\AnotacoesAula1.dll
