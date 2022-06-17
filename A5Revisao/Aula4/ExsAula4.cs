@@ -289,7 +289,7 @@ namespace Aula4
                     campeao = "X - " + nomes[0];
                     fimjogo = true;
                 }
-                else if ((preenchido[0] == 'Y' && preenchido[1] == 'Y' && preenchido[2] == 'Y') ||
+                else if ((preenchido[0] == '0' && preenchido[1] == '0' && preenchido[2] == '0') ||
                     (preenchido[3] == 'O' && preenchido[4] == 'O' && preenchido[5] == 'O') ||
                     (preenchido[6] == 'O' && preenchido[7] == 'O' && preenchido[8] == 'O') ||
                     (preenchido[6] == 'O' && preenchido[3] == 'O' && preenchido[0] == 'O') ||
@@ -298,7 +298,7 @@ namespace Aula4
                     (preenchido[6] == 'O' && preenchido[4] == 'O' && preenchido[2] == 'O') ||
                     (preenchido[0] == 'O' && preenchido[4] == 'O' && preenchido[8] == 'O'))
                 {
-                    campeao = "Y - " + nomes[1];
+                    campeao = "O - " + nomes[1];
                     fimjogo = true;
                 }
 
